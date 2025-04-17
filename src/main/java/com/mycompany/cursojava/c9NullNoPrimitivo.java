@@ -14,7 +14,9 @@ public class c9NullNoPrimitivo {
         //Int numero = null; // los datos primitivos NO pueden almacenar null, producen error
         System.out.println("No almacena nada es "+ numero);
         
-        //los datos no primitivos tienen metodos
+        //los datos no primitivos tienen metodos muchos metodos dependiendo de 
+        //que tipo de datos sean
+        
         //numero.shortValue()
     }
 }
